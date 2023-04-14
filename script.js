@@ -9,7 +9,7 @@ function hasKey(key) {
 			break;
 		}
 	}
-	console.log(result);
+	return result;
 }
 
 // Do not change the code below
